@@ -1,0 +1,19 @@
+{
+  "name": "character-count",
+  "version": "0.1.0",
+  "description": "Jquery plugin to limit characters for an input using a data attribute (data-charcount) and display used/limit alongside the inputs label",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pythonic1/character-count.git"
+  },
+  "author": "Dan Pythonic <pythonic1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pythonic1/character-count/issues"
+  },
+  "homepage": "https://github.com/pythonic1/character-count#readme"
+}
