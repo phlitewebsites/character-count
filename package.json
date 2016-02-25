@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pythonic1/character-count.git"
+    "url": "git+https://github.com/danhayden/character-count.git"
   },
   "author": "Dan Pythonic <pythonic1@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pythonic1/character-count/issues"
+    "url": "https://github.com/danhayden/character-count/issues"
   },
-  "homepage": "https://github.com/pythonic1/character-count#readme"
+  "homepage": "https://github.com/danhayden/character-count#readme"
 }
