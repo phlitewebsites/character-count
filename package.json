@@ -1,6 +1,6 @@
 {
   "name": "character-count",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Jquery plugin to limit characters for an input using a data attribute (data-charcount) and display used/limit alongside the inputs label",
   "main": "index.js",
   "scripts": {
